@@ -15,8 +15,6 @@ Users cannot access movie details before logging in 🙋‍♂️<br/>
 
 Deployed it using Firebase [here](https://movies-lande.web.app/).
 
-<br/>
-<br/>
 
 ## Built with
 
